@@ -25,6 +25,8 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devin989&label=Profile%20views&color=0e75b6&style=flat" alt="vijitha-mahesh" /> </p>
 
+---
+
 **Languages and Tools:**
 
 <p>
