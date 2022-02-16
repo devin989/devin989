@@ -14,8 +14,8 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **About Me:**
+- I’m Trainee Software Engineer at 99x.
 - I’m a BSc(Hons) IT & M Student at University of Moratuwa.
-- I’m currently working on __[Tea Tracker web](https://github.com/TheDataPirates/tea_tracker_web_new)__.
 - I’m currently learning __Swift__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
