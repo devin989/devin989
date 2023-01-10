@@ -8,22 +8,22 @@ You can use the website to generate badges: https://shields.io/
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://devin989.github.io/web-portfolio-react/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/devin989)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/in/devin-rathnayake)
 
 &nbsp;
 
 <!-- Talking about you -->
 **About Me:**
-- I’m Trainee Software Engineer at 99x.
+- I’m Former Trainee Software Engineer at 99x.
 - I’m a BSc(Hons) IT & M Student at University of Moratuwa.
 - I’m currently learning __Swift__ __.NET__
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- How to reach me: __deveenrath@gmail.com__
+- How to reach me: __devinraa9@gmail.com__
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devin989&label=Profile%20views&color=0e75b6&style=flat" alt="vijitha-mahesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devin989&label=Profile%20views&color=0e75b6&style=flat" alt="devin" /> </p>
 
 ---
 
