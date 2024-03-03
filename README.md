@@ -14,6 +14,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **About Me:**
+- Working as Software Engineer at IFS R&D
 - I’m Former Trainee Software Engineer at 99x.
 - I’m a BSc(Hons) IT & M Student at University of Moratuwa.
 - I’m currently learning __Swift__ __.NET__
