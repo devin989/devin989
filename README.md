@@ -16,8 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 - Working as Software Engineer at IFS R&D
 - I’m Former Trainee Software Engineer at 99x.
-- I’m a BSc(Hons) IT & M Student at University of Moratuwa.
-- I’m currently learning __Swift__ __.NET__
+- Graduated BSc(Hons) IT & M from University of Moratuwa.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - How to reach me: __devinraa9@gmail.com__
